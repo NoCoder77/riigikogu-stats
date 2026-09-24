@@ -1,0 +1,34 @@
+{
+  "areas": {
+    "Economic": {
+      "keywords": [
+        "maksud", "eelarve", "pension", "tööhõive", "investeering", "maks", "eelarve",
+        "pensionid", "tööturg", "majandus", "rahandus", "budget", "tax", "employment"
+      ]
+    },
+    "Social": {
+      "keywords": [
+        "haridus", "tervis", "sotsiaal", "pere", "lapsed", "vanurid", "toetus",
+        "education", "health", "social", "family", "children", "benefit"
+      ]
+    },
+    "Foreign": {
+      "keywords": [
+        "välispoliitika", "NATO", "EU", "Euroopa", "diplomaatia", "sanctions",
+        "foreign", "defence", "kaitse", "riigikaitse"
+      ]
+    },
+    "Environment": {
+      "keywords": [
+        "keskkond", "kliima", "energia", "loodus", "recycling", "environment",
+        "climate", "energy", "sustainable"
+      ]
+    },
+    "Justice": {
+      "keywords": [
+        "õigus", "kohus", "seadus", "kriminaal", "vangla", "law", "court",
+        "criminal", "justice", "legal"
+      ]
+    }
+  }
+}

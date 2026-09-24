@@ -1,0 +1,1 @@
+"""Riigikogu statistics ETL package."""

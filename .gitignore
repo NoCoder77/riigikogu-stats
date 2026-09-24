@@ -1,0 +1,49 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Local SQLite databases (never publish filled DBs)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+# setuptools/build artifacts (keep build/*.ps1 scripts)
+build/*
+!build/*.ps1
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Node / Vite UI
+ui/node_modules/
+ui/dist/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cursor / local debug
+.cursor/
+debug.log
+
+# PyInstaller
+*.spec
