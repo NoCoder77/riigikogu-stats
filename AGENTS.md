@@ -1,6 +1,6 @@
 # riigikogu_stats
 
-Private repo (may go public later). Riigikogu open-data ETL + local stats API/UI.
+Private repo. Keep private unless the owner explicitly asks to make it public. Riigikogu open-data ETL + local stats API/UI.
 
 ## Verify
 
